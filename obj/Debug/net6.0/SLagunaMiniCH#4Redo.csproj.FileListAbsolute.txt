@@ -13,3 +13,18 @@
 /Users/samlaguna/Documents/Level1/SLagunaMiniCH#4Redo/obj/Debug/net6.0/SLagunaMiniCH#4Redo.pdb
 /Users/samlaguna/Documents/Level1/SLagunaMiniCH#4Redo/obj/Debug/net6.0/SLagunaMiniCH#4Redo.genruntimeconfig.cache
 /Users/samlaguna/Documents/Level1/SLagunaMiniCH#4Redo/obj/Debug/net6.0/ref/SLagunaMiniCH#4Redo.dll
+/Users/aishamashrah/Documents/repository /https---github.com-SamuelLaguna-LagunaSMiniCH-4/bin/Debug/net6.0/SLagunaMiniCH#4Redo
+/Users/aishamashrah/Documents/repository /https---github.com-SamuelLaguna-LagunaSMiniCH-4/bin/Debug/net6.0/SLagunaMiniCH#4Redo.deps.json
+/Users/aishamashrah/Documents/repository /https---github.com-SamuelLaguna-LagunaSMiniCH-4/bin/Debug/net6.0/SLagunaMiniCH#4Redo.runtimeconfig.json
+/Users/aishamashrah/Documents/repository /https---github.com-SamuelLaguna-LagunaSMiniCH-4/bin/Debug/net6.0/SLagunaMiniCH#4Redo.dll
+/Users/aishamashrah/Documents/repository /https---github.com-SamuelLaguna-LagunaSMiniCH-4/bin/Debug/net6.0/SLagunaMiniCH#4Redo.pdb
+/Users/aishamashrah/Documents/repository /https---github.com-SamuelLaguna-LagunaSMiniCH-4/obj/Debug/net6.0/SLagunaMiniCH#4Redo.csproj.AssemblyReference.cache
+/Users/aishamashrah/Documents/repository /https---github.com-SamuelLaguna-LagunaSMiniCH-4/obj/Debug/net6.0/SLagunaMiniCH#4Redo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aishamashrah/Documents/repository /https---github.com-SamuelLaguna-LagunaSMiniCH-4/obj/Debug/net6.0/SLagunaMiniCH#4Redo.AssemblyInfoInputs.cache
+/Users/aishamashrah/Documents/repository /https---github.com-SamuelLaguna-LagunaSMiniCH-4/obj/Debug/net6.0/SLagunaMiniCH#4Redo.AssemblyInfo.cs
+/Users/aishamashrah/Documents/repository /https---github.com-SamuelLaguna-LagunaSMiniCH-4/obj/Debug/net6.0/SLagunaMiniCH#4Redo.csproj.CoreCompileInputs.cache
+/Users/aishamashrah/Documents/repository /https---github.com-SamuelLaguna-LagunaSMiniCH-4/obj/Debug/net6.0/SLagunaMiniCH#4Redo.dll
+/Users/aishamashrah/Documents/repository /https---github.com-SamuelLaguna-LagunaSMiniCH-4/obj/Debug/net6.0/refint/SLagunaMiniCH#4Redo.dll
+/Users/aishamashrah/Documents/repository /https---github.com-SamuelLaguna-LagunaSMiniCH-4/obj/Debug/net6.0/SLagunaMiniCH#4Redo.pdb
+/Users/aishamashrah/Documents/repository /https---github.com-SamuelLaguna-LagunaSMiniCH-4/obj/Debug/net6.0/SLagunaMiniCH#4Redo.genruntimeconfig.cache
+/Users/aishamashrah/Documents/repository /https---github.com-SamuelLaguna-LagunaSMiniCH-4/obj/Debug/net6.0/ref/SLagunaMiniCH#4Redo.dll

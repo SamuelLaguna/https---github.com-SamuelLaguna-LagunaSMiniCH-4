@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/samlaguna/Documents/Level1/SLagunaMiniCH#4Redo/SLagunaMiniCH#4Redo.csproj": {}
+    "/Users/aishamashrah/Documents/repository /https---github.com-SamuelLaguna-LagunaSMiniCH-4/SLagunaMiniCH#4Redo.csproj": {}
   },
   "projects": {
-    "/Users/samlaguna/Documents/Level1/SLagunaMiniCH#4Redo/SLagunaMiniCH#4Redo.csproj": {
+    "/Users/aishamashrah/Documents/repository /https---github.com-SamuelLaguna-LagunaSMiniCH-4/SLagunaMiniCH#4Redo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/samlaguna/Documents/Level1/SLagunaMiniCH#4Redo/SLagunaMiniCH#4Redo.csproj",
+        "projectUniqueName": "/Users/aishamashrah/Documents/repository /https---github.com-SamuelLaguna-LagunaSMiniCH-4/SLagunaMiniCH#4Redo.csproj",
         "projectName": "SLagunaMiniCH#4Redo",
-        "projectPath": "/Users/samlaguna/Documents/Level1/SLagunaMiniCH#4Redo/SLagunaMiniCH#4Redo.csproj",
-        "packagesPath": "/Users/samlaguna/.nuget/packages/",
-        "outputPath": "/Users/samlaguna/Documents/Level1/SLagunaMiniCH#4Redo/obj/",
+        "projectPath": "/Users/aishamashrah/Documents/repository /https---github.com-SamuelLaguna-LagunaSMiniCH-4/SLagunaMiniCH#4Redo.csproj",
+        "packagesPath": "/Users/aishamashrah/.nuget/packages/",
+        "outputPath": "/Users/aishamashrah/Documents/repository /https---github.com-SamuelLaguna-LagunaSMiniCH-4/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/samlaguna/.nuget/NuGet/NuGet.Config"
+          "/Users/aishamashrah/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
